@@ -37,7 +37,8 @@ I contributed to multiple phases of the project:
 
 | Word Cloud – Event Day (June 17) | Word Cloud – Post Event |
 |----------------------------------|--------------------------|
-| ![Wordcloud 17th June](./Wordcloud 17th june.png) | ![Post Event Word Cloud](images/wordcloud_post_event.png) |
+| ![Wordcloud 17th June](./GitHub/Top20Words17thJune.png) | ![Post Event Word Cloud](images/wordcloud_post_event.png) |
+
 
 
 
