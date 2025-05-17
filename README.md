@@ -37,8 +37,7 @@ I contributed to multiple phases of the project:
 
 | Word Cloud – Event Day (June 17) | Word Cloud – Post Event |
 |----------------------------------|--------------------------|
-| ![Wordcloud 17th June](./GitHub/Top20Words17thJune.png) | ![Post Event Word Cloud](images/wordcloud_post_event.png) |
-
+| ![Wordcloud 17th June](./GitHub/WordCloud17thJune.png) | ![Post Event Word Cloud](./GitHub/PostEventWordCloud.png) | 
 
 
 
@@ -46,17 +45,17 @@ I contributed to multiple phases of the project:
 
 | 17th June | Post Event |
 |-----------|------------|
-| ![Top Words 17th June](images/top_words_event_day.png) | ![Top Words Post](images/top_words_post_event.png) |
+| ![Top Words 17th June](./GitHub/Top20Words17thJune.png) | ![Top Words Post](./GitHub/Top20WordsPost.png) |
 
 ### 📈 Sentiment Distribution & Score Histograms
 
 | Sentiment Scores (June 17) | Score Histogram (June 17) |
 |----------------------------|---------------------------|
-| ![Sentiment Distribution](images/sentiment_bar_event_day.png) | ![Histogram 17th](images/histogram_sentiment_score_event.png) |
+| ![Sentiment Distribution](./GitHub/SentimentWordCloud17thJune.png) | ![Histogram 17th](./GitHub/SentimentScore17thJune.png) |
 
 | Sentiment Scores (Post Event) | Score Histogram (Post Event) |
 |-------------------------------|-------------------------------|
-| ![Sentiment Distribution Post](images/sentiment_bar_post_event.png) | ![Histogram Post](images/histogram_sentiment_score_post.png) |
+| ![Sentiment Distribution Post](./GitHub/PostEventSentimentCloud.png) | ![Histogram Post](./GitHub/SentimentScorePostEvent.png) |
 
 ---
 
