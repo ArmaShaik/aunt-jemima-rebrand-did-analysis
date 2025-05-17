@@ -37,7 +37,7 @@ I contributed to multiple phases of the project:
 
 | Word Cloud – Event Day (June 17) | Word Cloud – Post Event |
 |----------------------------------|--------------------------|
-| ![Wordcloud 17th June](images/wordcloud_event_day.png) | ![Post Event Word Cloud](images/wordcloud_post_event.png) |
+| ![Wordcloud 17th June](Wordcloud 17th june.png) | ![Post Event Word Cloud](images/wordcloud_post_event.png) |
 
 ### 🔠 Top 20 Most Frequent Words
 
