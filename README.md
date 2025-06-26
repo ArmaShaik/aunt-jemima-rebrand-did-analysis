@@ -92,5 +92,4 @@ I contributed to multiple phases of the project:
 ## 🔗 Let’s Connect
 
 💼 [LinkedIn](https://linkedin.com/in/armashaik)  
-📬 arma.rahamath@gmail.com
 📂 [More Projects](https://github.com/armashaik)
